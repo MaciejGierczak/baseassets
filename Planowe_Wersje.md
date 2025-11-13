@@ -11,7 +11,7 @@ Poniżej znajdują się wersje koszwałka wraz z planową datą ich wdrożenia o
 
 ## Koszwałek 2.0 - I kwartał 2026
 - **Analiza złożonych dokumentów**: analizowanie plików pdf,word,excel 
-- **Dostarczenie Koszwałkowi wiedzy firmowej i wiedzy działowej**: Dostarczenie Koszwałkowi wiedzy firmowej i wiedzy działowej w zależności od uprawnień danego użytkownika
+- **Dostarczenie Koszwałkowi wiedzy firmowej i wiedzy działowej** w zależności od uprawnień danego użytkownika
   
 ## Koszwałek 3.0 II/III kwartał 2026
 - **Koszwałek Websearch**: Umożliwienie Koszwałkowi korzystania z internetu.
