@@ -16,6 +16,6 @@ Poniżej znajdują się wersje koszwałka wraz z planową datą ich wdrożenia o
 ## Koszwałek 3.0 II/III kwartał 2026
 - **Koszwałek Websearch**: Umożliwienie Koszwałkowi korzystania z internetu.
 - **Dodanie Strażnika promptu**: Strażnik promptu ma 2 kluczowe zadania
- <br>- Animizacja danych wrażliwych danych
+ <br>- Anonimizacja danych wrażliwych danych
 <br>- Ochrona przed złośliwymi stronami znalezionymi przez koszwałka
 
