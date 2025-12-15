@@ -19,3 +19,5 @@ Poniżej znajdują się wersje koszwałka wraz z planową datą ich wdrożenia o
  <br>- Anonimizacja danych wrażliwych danych
 <br>- Ochrona przed złośliwymi stronami znalezionymi przez koszwałka
 
+## Koszwałek 4.0 II/III kwartał 2026
+- **Documenso** wewnętrzny obieg dokumentów - podpisy, sprawdzenie stanu dokumentów
